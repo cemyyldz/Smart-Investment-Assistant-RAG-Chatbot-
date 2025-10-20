@@ -1,6 +1,6 @@
 # Akıllı Yatırım Asistanı (RAG Chatbot)
 
-## [cite_start]Projenin Amacı 
+## Projenin Amacı 
 Akıllı Yatırım Asistanı görevi görecek, RAG (Retrieval Augmented Generation) temelli bir Chatbot geliştirmektir. Bu asistan, kullanıcıların yatırım ve finansal konular hakkındaki sorularını, belirlenen veri seti üzerinden doğru ve dengeli bilgilerle yanıtlayarak uzun vadede sürdürülebilir bir strateji oluşturmalarına yardımcı olmayı hedeflemektedir.
 
 ## [cite_start] Veri Seti Hakkında Bilgi 
@@ -16,7 +16,7 @@ Veri seti, RAG Chatbot'un bilgi tabanını oluşturmaktadır ve aşağıdaki tem
 * Risk Yönetimi ve Portföy Dağılımı
 * Kripto Para Yatırımı
 
-## [cite_start] Kullanılan Yöntemler (Çözüm Mimarisi) 
+## Kullanılan Yöntemler (Çözüm Mimarisi) 
 
 Bu proje, bir RAG hattı (pipeline) kurmak için LangChain'in en güncel **Runnable** arayüzünü kullanmıştır.
 
@@ -28,10 +28,10 @@ Bu proje, bir RAG hattı (pipeline) kurmak için LangChain'in en güncel **Runna
 | **RAG Çatısı (Framework)** | **LangChain** (Runnable Interface) | Veri işleme, Retriever ve LLM'i birleştirerek dinamik bir sorgu zinciri oluşturmak. |
 | **Web Arayüzü** | **Streamlit** | Chatbot'u etkileşimli ve kullanıcı dostu bir arayüzle sunmak. |
 
-## [cite_start] Elde Edilen Sonuçlar [cite: 88]
+## Elde Edilen Sonuçlar [cite: 88]
 *(Projenin son test aşamaları tamamlandıktan sonra, chatbot'un yetenekleri, başarı oranı ve genel performans özeti bu bölüme eklenecektir.)*
 
-## [cite_start] Uygulama Web Linki [cite: 89]
+## Uygulama Web Linki [cite: 89]
 *(Bu bölüme, Streamlit Community Cloud veya benzeri bir platforma yapılan **dağıtım (deployment) sonrası elde edilen herkese açık link** eklenecektir.)*
 
 ---
