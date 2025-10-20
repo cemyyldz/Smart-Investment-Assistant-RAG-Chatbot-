@@ -12,7 +12,8 @@ Proje kök dizininde .env adında bir dosya oluşturun ve içine API anahtarın�
 
 ### .env dosyasının içeriği:
 GEMINI_API_KEY="SENIN_GOOGLE_GEMINI_API_ANAHTARIN_BURAYA"
-2.2 Anahtar Erişimi
+
+### 2.2 Anahtar Erişimi
 Google Gemini API Anahtarınızı Google AI Studio üzerinden alabilirsiniz.
 
 ## 3. Vektör Veritabanının Hazırlanması (Hafıza Oluşturma)
