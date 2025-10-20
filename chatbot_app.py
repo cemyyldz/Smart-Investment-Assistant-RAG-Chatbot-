@@ -9,63 +9,58 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_community.document_loaders import TextLoader 
 from langchain_text_splitters import RecursiveCharacterTextSplitter 
 
+
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY")
 
 if not API_KEY:
+ 
     st.error("GEMINI_API_KEY ortam değişkeni bulunamadı. Lütfen .env dosyanızı veya Streamlit Secrets ayarlarınızı kontrol edin.")
     st.stop()
 
-@st.cache_resource
+
+@st.cache_resource(show_spinner=True)
 def setup_rag_pipeline():
     
     EMBEDDING_MODEL_NAME = "text-embedding-004"
-    PERSIST_DIRECTORY = "./chroma_db_yatirim"
-
-    embedding_model = GoogleGenerativeAIEmbeddings(
-        model=EMBEDDING_MODEL_NAME, 
-        google_api_key=API_KEY
-    )
     
-    vectorstore = None
 
-    if os.path.exists(PERSIST_DIRECTORY) and len(os.listdir(PERSIST_DIRECTORY)) > 0:
-
-        try:
-            vectorstore = Chroma(
-                persist_directory=PERSIST_DIRECTORY, 
-                embedding_function=embedding_model
-            )
-            st.info("Vektör Veritabanı diskten başarıyla yüklendi (Hafıza Hazır).")
-        except Exception as e:
-
-            st.warning(f"Veritabanı yüklenirken hata oluştu ({e}). Sıfırdan oluşturuluyor...")
-            vectorstore = None 
+    st.info("Veri setinden RAG hafızası (Vektör Veritabanı) oluşturuluyor... Lütfen bekleyin.")
     
-    if vectorstore is None:
+    try:
 
-        st.warning("Vektör Veritabanı bulunamadı. Veri setinden sıfırdan oluşturuluyor... Bu işlem biraz zaman alabilir.")
+        loader = TextLoader("yatirim_verileri.txt", encoding="utf-8")
+        documents = loader.load()
+        
 
-        try:
-            loader = TextLoader("yatirim_verileri.txt", encoding="utf-8")
-            documents = loader.load()
-            text_splitter = RecursiveCharacterTextSplitter(
-                chunk_size=1000, 
-                chunk_overlap=100,
-                separators=["\n\n", "\n", " ", ""]
-            )
-            texts = text_splitter.split_documents(documents)
+        text_splitter = RecursiveCharacterTextSplitter(
+            chunk_size=1000, 
+            chunk_overlap=100,
+            separators=["\n\n", "\n", " ", ""]
+        )
+        texts = text_splitter.split_documents(documents)
 
-            vectorstore = Chroma.from_documents(
-                documents=texts,  
-                embedding=embedding_model, 
-                persist_directory=PERSIST_DIRECTORY 
-            )
-            vectorstore.persist()
-            st.success(f"Vektör Veritabanı başarıyla oluşturuldu ve {len(texts)} parça yüklendi.")
-        except FileNotFoundError:
-            st.error("HATA: 'yatirim_verileri.txt' dosyası bulunamadı. Lütfen GitHub deponuza eklediğinizden emin olun.")
-            st.stop()
+
+        embedding_model = GoogleGenerativeAIEmbeddings(
+            model=EMBEDDING_MODEL_NAME, 
+            google_api_key=API_KEY
+        )
+ 
+        vectorstore = Chroma.from_documents(
+            documents=texts,  
+            embedding=embedding_model, 
+    
+        )
+        
+        st.success(f"Vektör Veritabanı başarıyla hafızaya yüklendi ({len(texts)} parça).")
+        
+    except FileNotFoundError:
+        st.error("HATA: 'yatirim_verileri.txt' dosyası bulunamadı. Lütfen GitHub deponuza eklediğinizden emin olun.")
+ 
+        return None, None
+    except Exception as e:
+        st.error(f"RAG kurulumunda beklenmeyen bir hata oluştu: {e}")
+        return None, None
 
 
     retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
@@ -107,6 +102,9 @@ st.set_page_config(page_title="Akıllı Yatırım Asistanı RAG Chatbot")
 st.title("💰 Akıllı Yatırım Asistanı")
 st.caption("Veri setine dayalı RAG Chatbot (Gemini + LangChain + ChromaDB)")
 
+if rag_chain is None:
+    st.stop()
+
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
@@ -125,7 +123,6 @@ if prompt := st.chat_input("Yatırım veya finans ile ilgili bir soru sorunuz...
     with st.chat_message("assistant"):
         with st.spinner("Asistan yanıt oluşturuyor..."):
             
-           
             response = rag_chain.invoke(prompt)
             st.markdown(response)
 
