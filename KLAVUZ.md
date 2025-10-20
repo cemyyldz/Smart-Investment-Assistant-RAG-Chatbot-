@@ -57,11 +57,11 @@ Bu yaklaşım, modelin hem güvenilir hem de veri setine dayalı yanıtlar verme
 
 Aşağıdaki örnek sorgular, chatbot’un farklı yeteneklerini test etmek için hazırlanmıştır:
 
-| No | Sorgu | Beklenen Kabiliyet (Veri Seti Tabanlı Yanıt) |
-|----|--------|---------------------------------------------|
+| No | Sorgu
+|----|--------
 | 1 | Kripto para yatırımı yaparken güvenlik açısından dikkat edilmesi gereken en önemli unsur nedir?
-| 2 | Yatırım fonlarının avantajları nelerdir? | Çeşitlendirme ve profesyonel yönetim sağladığı yanıtını vermelidir. |
-| 3 | Temel analiz ile teknik analiz arasındaki fark nedir? | Temel analizin şirketin finansal tablolarını, teknik analizin ise geçmiş fiyat hareketleri ve grafik formasyonlarını incelediği farkını doğru bir şekilde belirtmelidir. |
+| 2 | Yatırım fonlarının avantajları nelerdir? 
+| 3 | Temel analiz ile teknik analiz arasındaki fark nedir? 
 | 4 | Hisse senedi fiyatlarını etkileyen ana faktörler nelerdir?
 | 5 | (Sınırlı Bilgi Testi) Avrupa Merkez Bankası faiz kararı ne oldu? 
 
