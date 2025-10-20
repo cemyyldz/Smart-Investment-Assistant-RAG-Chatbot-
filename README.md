@@ -29,10 +29,11 @@ Bu proje, bir RAG hattı (pipeline) kurmak için LangChain'in en güncel **Runna
 | **Web Arayüzü** | **Streamlit** | Chatbot'u etkileşimli ve kullanıcı dostu bir arayüzle sunmak. |
 
 ## Elde Edilen Sonuçlar 
-*(Projenin son test aşamaları tamamlandıktan sonra, chatbot'un yetenekleri, başarı oranı ve genel performans özeti bu bölüme eklenecektir.)*
+Proje başarılı bir şekilde RAG mimarisini uygulayarak, yatırım veri setine dayalı doğru ve bağlama sadık yanıtlar üretebilmektedir. Chatbot, yatırım araçlarının tanımı, risk-getiri dengesi, portföy çeşitlendirmesi, risk yönetimi ve temel analiz gibi konularda güvenilir bir asistan rolünü üstlenmiştir.
 
-## Uygulama Web Linki
-*(Bu bölüme, Streamlit Community Cloud veya benzeri bir platforma yapılan **dağıtım (deployment) sonrası elde edilen herkese açık link** eklenecektir.)*
+## 🔗 Uygulama Web Linki
+
+**Canlı Uygulama Linki:** [Akıllı Yatırım Asistanı](https://wfrqjrd6h7dvwtognc5sbt.streamlit.app/)
 
 ---
 
@@ -41,4 +42,4 @@ Bu proje, bir RAG hattı (pipeline) kurmak için LangChain'in en güncel **Runna
 * **`yatirim_asistani.ipynb`**: RAG hattının kurulumu, testi ve adım adım teknik anlatımın yer aldığı geliştirme notebook'udur.
 * **`chatbot_app.py`**: Streamlit tabanlı web arayüzü uygulamasını içeren ana Python dosyasıdır.
 * **`requirements.txt`**: Projenin çalışması için gerekli tüm Python bağımlılıklarını içerir.
-* **`KILAVUZ.md`**: Projenin Çalışma Kılavuzunu (venv, kurulum) ve Product Kılavuzunu (test senaryoları) içerir.
+* **`KILAVUZ.md`**: Projenin Çalışma Kılavuzunu (kurulum) ve Product Kılavuzunu (test senaryoları) içerir.
