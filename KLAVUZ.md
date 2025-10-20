@@ -63,5 +63,6 @@ Aşağıdaki örnek sorgular, chatbot’un farklı yeteneklerini test etmek içi
 | 2 | Yatırım fonlarının avantajları nelerdir? 
 | 3 | Temel analiz ile teknik analiz arasındaki fark nedir? 
 | 4 | Hisse senedi fiyatlarını etkileyen ana faktörler nelerdir?
+| 5 | Yatırım riski nedir?
 
 ---
