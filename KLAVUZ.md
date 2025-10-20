@@ -37,3 +37,32 @@ Veritabanı hazırlandıktan sonra, Streamlit web arayüzünü başlatmak için 
 streamlit run chatbot_app.py
 
 Tarayıcınızda otomatik olarak açılacaktır (genellikle http://localhost:8501).
+
+## Deploy Linki
+**Uygulamanın herkese açık linki:** [Akıllı Yatırım Asistanı Chatbot](https://wfrqjrd6h7dvwtognc5sbt.streamlit.app/)
+
+---
+
+##  Çalışma Akışı ve Kabiliyetleri
+
+Uygulama, **RAG (Retrieval Augmented Generation)** mimarisiyle çalışır.  
+Kullanıcının sorduğu soru, **ChromaDB** veritabanından çekilen en alakalı **3 bilgi parçası** ile zenginleştirilir ve ardından **Gemini modeli**ne gönderilir.  
+Model, **sadece bu bağlama dayanarak** yanıt üretir.  
+
+Bu yaklaşım, modelin hem güvenilir hem de veri setine dayalı yanıtlar vermesini sağlar.
+
+---
+
+## Test Senaryoları (Projenin Kabiliyetlerini Gösterme)
+
+Aşağıdaki örnek sorgular, chatbot’un farklı yeteneklerini test etmek için hazırlanmıştır:
+
+| No | Sorgu | Beklenen Kabiliyet (Veri Seti Tabanlı Yanıt) |
+|----|--------|---------------------------------------------|
+| 1 | Kripto para yatırımı yaparken güvenlik açısından dikkat edilmesi gereken en önemli unsur nedir?
+| 2 | Yatırım fonlarının avantajları nelerdir? | Çeşitlendirme ve profesyonel yönetim sağladığı yanıtını vermelidir. |
+| 3 | Temel analiz ile teknik analiz arasındaki fark nedir? | Temel analizin şirketin finansal tablolarını, teknik analizin ise geçmiş fiyat hareketleri ve grafik formasyonlarını incelediği farkını doğru bir şekilde belirtmelidir. |
+| 4 | Hisse senedi fiyatlarını etkileyen ana faktörler nelerdir?
+| 5 | (Sınırlı Bilgi Testi) Avrupa Merkez Bankası faiz kararı ne oldu? 
+
+---
