@@ -3,16 +3,16 @@ Projenin Amacı,"Akıllı Yatırım Asistanı görevi görecek, RAG (Retrieval A
 
 ---
 
-## [cite_start]Veri Seti Hakkında Bilgi [cite: 86]
+Veri Seti Hakkında Bilgi
 Projede kullanılan veri seti, finans ve yatırım dünyasına dair temel bilgileri içeren, özel olarak hazırlanmış tek bir metin dosyasıdır (`yatirim_verileri.txt`). Veri seti aşağıdaki ana başlıkları kapsamaktadır:
 
-* [cite_start]Altın Yatırımı 
-* [cite_start]Hisse Senedi Yatırımı 
-* [cite_start]Döviz Yatırımı 
-* [cite_start]Yatırım Fonları 
-* [cite_start]Tahvil & Eurobond 
-* [cite_start]Risk Yönetimi ve Portföy Dağılımı 
-* [cite_start]Kripto Para Yatırımı 
+Altın Yatırımı 
+Hisse Senedi Yatırımı 
+Döviz Yatırımı 
+Yatırım Fonları 
+Tahvil & Eurobond 
+Risk Yönetimi ve Portföy Dağılımı 
+Kripto Para Yatırımı 
 
 Veri seti, her bir yatırım aracının tanımını, risk-getiri özelliklerini, fiyatlarını etkileyen faktörleri ve portföydeki yerini açıklamaktadır.
 
