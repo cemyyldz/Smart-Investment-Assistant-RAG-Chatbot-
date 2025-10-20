@@ -1,0 +1,20 @@
+# Proje Geliştirme Ortamı ve API Anahtarı Yönetimi
+python-dotenv
+
+# LangChain Çatısı ve Çekirdek Bileşenleri
+langchain
+langchain-core
+langchain-community
+langchain_text_splitters 
+
+# Google Gemini Entegrasyonu (LLM ve Embedding Modeli)
+langchain-google-genai
+
+# Vektör Veritabanı
+chromadb
+
+# Web Arayüzü (Deployment için)
+streamlit
+
+# Diğer Zorunlu Bağımlılıklar (Pip Freeze ile alınması tavsiye edilir, ancak bu liste temel ihtiyaçları kapsar)
+pydantic

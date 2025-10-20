@@ -1,0 +1,131 @@
+=== ALTIN YATIRIMI ===
+Altın, tarih boyunca en güvenilir yatırım araçlarından biri olarak kabul edilmiştir. İnsanlık tarihi boyunca para birimi, değer ölçüsü ve zenginlik göstergesi olarak kullanılmıştır. Günümüzde yatırımcılar, özellikle ekonomik belirsizlikler ve yüksek enflasyon dönemlerinde altına yönelir. Çünkü altın, değerini uzun vadede koruma eğilimindedir.
+
+Altına yatırım yapmanın birçok yolu vardır: gram altın, çeyrek altın, külçe altın, altın hesapları, altın fonları ve altın sertifikaları. Türkiye’de en yaygın kullanılan yatırım türü gram altındır ve fiyatı doğrudan dolar kuru ile ons altın fiyatına bağlıdır. Ons altın, uluslararası piyasalarda ABD doları cinsinden işlem görür.
+
+Altın yatırımı, genellikle düşük riskli bir yatırım olarak değerlendirilir. Ancak kısa vadede altın fiyatlarında volatilite görülebilir. Bu nedenle kısa vadede yüksek getiri bekleyen yatırımcılar için uygun olmayabilir. Uzun vadede ise altın, portföy çeşitlendirmesi açısından değerli bir varlıktır.
+
+Altın fiyatları; merkez bankalarının faiz kararları, enflasyon oranları, jeopolitik riskler, doların değeri ve küresel talep gibi faktörlerden etkilenir. Örneğin, ABD faizleri düştüğünde altına talep artar, çünkü getiri arayan yatırımcılar güvenli limanlara yönelir.  
+Ayrıca merkez bankaları da rezervlerinin bir kısmını altın olarak tutar; bu da altın piyasasının arz-talep dengesinde önemli rol oynar.
+
+Sonuç olarak altın, yatırımcılar için uzun vadeli koruma ve istikrar sağlayan bir araçtır. Portföyün %10-20’si civarında altın bulundurmak, risk dağılımı açısından genellikle önerilen bir stratejidir.
+
+---
+
+=== HISSE SENEDI YATIRIMI ===
+Hisse senedi, bir şirketin sermayesini temsil eden paylardır. Hisse senedi satın alan yatırımcı, o şirketin ortağı olur ve kar payı (temettü) veya fiyat artışından kazanç elde edebilir. Hisse senedi yatırımı yüksek getiri potansiyeline sahip olsa da, aynı zamanda yüksek risk taşır.
+
+Hisse fiyatlarını etkileyen birçok faktör vardır: şirketin finansal performansı, karlılığı, büyüme potansiyeli, sektör dinamikleri, ülke ekonomisi ve küresel piyasa koşulları bunların başında gelir.  
+Örneğin, bir şirket güçlü bilanço açıklarsa hisse fiyatı yükselme eğilimindedir. Ancak faiz oranları arttığında veya ekonomik durgunluk yaşandığında yatırımcılar hisse senetlerinden uzaklaşabilir.
+
+Temel analiz, şirketin finansal tabloları (gelir tablosu, bilanço, nakit akışı) üzerinden değerlendirme yapar. Teknik analiz ise geçmiş fiyat hareketleri ve grafik formasyonlarını inceleyerek gelecekteki trendleri tahmin etmeye çalışır.  
+Başarılı yatırımcılar genellikle bu iki yöntemi birlikte kullanır.
+
+Yatırımcılar uzun vadeli düşünerek sağlam şirketlerin hisselerine yatırım yaptığında, zaman içinde temettü ve değer artışıyla önemli kazanç elde edebilir.  
+Borsa İstanbul’da işlem gören BIST100 endeksi, Türkiye ekonomisinin önemli bir göstergesidir ve yatırımcılar genellikle portföy performansını bu endeksle kıyaslar.
+
+Hisse senedi yatırımı yaparken duygusal davranmamak, panik satışlarından kaçınmak ve düzenli alım stratejileri uygulamak önemlidir. Uzun vadeli birikim amaçlı yatırım yapan bireyler için hisse senedi, güçlü bir büyüme aracıdır.
+
+---
+
+=== DOVIZ YATIRIMI ===
+Döviz yatırımı, bir ülkenin para biriminin diğerine karşı değer kazanacağı beklentisiyle yapılan işlemleri kapsar. Türkiye’de en çok tercih edilen döviz türleri dolar (USD) ve euro (EUR)’dur.  
+Döviz kurları, merkez bankalarının para politikaları, faiz oranları, enflasyon, cari açık ve siyasi istikrar gibi faktörlerden etkilenir.
+
+Yatırımcılar döviz alarak TL’nin değer kaybına karşı korunmak veya kısa vadeli kur hareketlerinden kazanç elde etmek isteyebilir.  
+Döviz yatırımının en yaygın yolları döviz hesabı açmak, döviz fonlarına yatırım yapmak veya forex piyasasında işlem yapmaktır.
+
+Döviz kurları günlük olarak değiştiği için bu yatırım türü yüksek volatiliteye sahiptir. Kısa vadeli al-sat yapan yatırımcılar hızlı kazanç elde edebilir ancak aynı oranda risk de taşır.  
+Uzun vadeli yatırımcılar ise genellikle portföylerinin bir kısmını dövizde tutarak istikrar sağlamayı hedefler.
+
+Döviz yatırımı yaparken dikkat edilmesi gereken en önemli unsurlardan biri **kur farkı riski**dir. TL’nin değer kazandığı dönemlerde döviz yatırımcısı zarar edebilir.  
+Ayrıca döviz getirileri, enflasyon karşısında reel getiri sağlamayabilir. Bu nedenle döviz, genellikle korunma aracı olarak tercih edilir, ana yatırım unsuru olarak değil.
+
+---
+
+=== YATIRIM FONLARI ===
+Yatırım fonları, birçok yatırımcının parasını bir araya getirerek profesyonel portföy yöneticileri tarafından yönetilen yatırım araçlarıdır.  
+Fonlar sayesinde küçük sermayeli yatırımcılar bile geniş bir portföye erişebilir. Fonlar hisse senedi, tahvil, altın, döviz, vadeli mevduat gibi birçok finansal üründen oluşabilir.
+
+Yatırım fonlarının avantajı, çeşitlendirme ve profesyonel yönetimdir.  
+Yani yatırımcı, piyasaları sürekli takip etmek zorunda kalmadan portföyünü uzmanlara emanet edebilir.  
+Fon türleri arasında **hisse senedi fonu**, **karma fon**, **değişken fon**, **altın fonu** ve **borçlanma araçları fonu** gibi çeşitler bulunur.
+
+Fon fiyatı, fonun toplam portföy değerine göre her gün hesaplanır ve “birim pay” olarak ifade edilir.  
+Yatırımcı dilediği zaman fon alıp satabilir. Bu yönüyle yatırım fonları oldukça likittir.  
+Ancak fonlar da piyasa koşullarına bağlı olarak değer kaybedebilir, bu nedenle fon seçimi önemlidir.
+
+Fon seçerken dikkat edilmesi gereken kriterler:
+- Fonun geçmiş performansı  
+- Yönetim ücreti (fon işletim gideri oranı)  
+- Risk profili  
+- Fon yöneticisinin tecrübesi  
+- Hangi varlıklara yatırım yaptığı
+
+Uzun vadeli yatırım yapanlar için fonlar, düzenli getiri ve düşük risk açısından oldukça avantajlıdır.  
+Ayrıca bazı yatırımcılar **otomatik fon alımı** yöntemiyle her ay belirli miktarda yatırım yaparak ortalama maliyet avantajı elde eder.
+
+---
+
+=== TAHVIL & EUROBOND ===
+Tahvil, devletlerin veya şirketlerin borçlanmak amacıyla çıkardıkları menkul kıymetlerdir.  
+Yatırımcı tahvili satın aldığında, belirli bir vade boyunca sabit faiz geliri elde eder ve vade sonunda anaparasını geri alır.
+
+Tahvillerin en önemli özelliği sabit getirili olmalarıdır. Bu yüzden hisse senetlerine göre daha düşük risk taşırlar.  
+Ancak faiz oranları yükseldiğinde tahvil fiyatları düşer. Bu durum, tahvil yatırımcısının en önemli riskidir.
+
+Devlet tahvilleri en güvenli tahvil türüdür çünkü devletin ödeme güvencesi altındadır.  
+Şirket tahvilleri (özel sektör tahvilleri) ise daha yüksek getiri sunabilir ama temerrüt riski taşır.
+
+Eurobondlar, yabancı para cinsinden ihraç edilen uzun vadeli tahvillerdir.  
+Örneğin Türkiye Hazine’sinin dolar cinsinden ihraç ettiği Eurobondlar, hem faiz hem döviz getirisi sağlar.  
+Bu ürünler genellikle yüksek gelirli yatırımcılar tarafından tercih edilir.
+
+Tahvil yatırımı, portföyde istikrar sağlar ve risk-getiri dengesini optimize eder.  
+Genel bir kural olarak yatırımcının yaşı ne kadar yüksekse, portföyündeki sabit getirili tahvil oranı o kadar fazla olmalıdır.  
+Bu, klasik “yaş = tahvil oranı” kuralı olarak bilinir.
+
+---
+
+=== RISK YONETIMI VE PORTFOY DAGILIMI ===
+Risk yönetimi, yatırım sürecinin en kritik parçasıdır. Her yatırım aracı belirli bir getiri potansiyeliyle birlikte belli bir risk taşır.  
+Risk, tamamen ortadan kaldırılamaz ancak yönetilebilir. Bunun temel yolu portföy çeşitlendirmesidir.
+
+Portföy çeşitlendirmesi, farklı varlık türlerine yatırım yaparak toplam riski azaltmak anlamına gelir.  
+Örneğin, portföyde hem hisse hem tahvil hem de altın bulunması, tek bir varlığın kötü performans göstermesi durumunda toplam zararı sınırlar.  
+Bu yöntem, modern portföy teorisinin temelini oluşturur.
+
+Yatırımcılar risk profillerine göre sınıflandırılır:
+- **Düşük riskli yatırımcı:** Mevduat, tahvil, fon ağırlıklı portföy.  
+- **Orta riskli yatırımcı:** Hisse ve fon karışımı.  
+- **Yüksek riskli yatırımcı:** Hisse, kripto veya türev ürün ağırlıklı portföy.
+
+Risk yönetimi aynı zamanda “duygusal kontrol” gerektirir. Panik satışları, aşırı risk alma veya kısa vadeli spekülasyonlar yatırım performansını olumsuz etkiler.  
+Profesyonel yatırımcılar, zarar-kes (stop-loss) seviyeleri belirler ve portföylerini düzenli aralıklarla yeniden dengeler.
+
+---
+
+=== KRIPTO PARA YATIRIMI ===
+Kripto paralar, blok zinciri teknolojisine dayanan dijital varlıklardır. Bitcoin, Ethereum, Solana ve Binance Coin gibi binlerce farklı kripto para bulunmaktadır.  
+Kripto piyasası 7/24 açıktır ve fiyatlar çok hızlı değişebilir, bu da yatırımcıya hem yüksek kazanç hem de yüksek risk sunar.
+
+Kripto yatırımı yaparken dikkat edilmesi gereken en önemli unsur güvenilirliktir.  
+Yatırımcılar, işlem yaptıkları borsaların regülasyonlara uygun ve güvenli olduğundan emin olmalıdır.  
+Cüzdan güvenliği (soğuk cüzdan, iki aşamalı doğrulama) büyük önem taşır.
+
+Kripto varlıklar portföyde genellikle küçük bir oranda tutulmalıdır.  
+Çünkü volatilite çok yüksektir.  
+Kripto yatırımcıları genellikle ikiye ayrılır: kısa vadeli işlem yapan “trader”lar ve uzun vadeli “hodler”lar.  
+Uzun vadeli yatırımcılar, projelerin teknolojisine, ekip yapısına ve kullanım alanına göre seçim yapar.
+
+Kripto piyasası, regülasyon haberlerine ve global ekonomik gelişmelere çok hızlı tepki verir.  
+Bu nedenle sürekli piyasa takibi gerekir.  
+Kripto paralar, portföyde risk-getiri dengesini artırabilir ama aşırı ağırlık vermek yatırım riskini yükseltir.
+
+---
+
+SONUÇ:
+Yatırım yaparken temel prensip “getiri hedefi ile risk toleransı arasında denge kurmak” olmalıdır.  
+Hiçbir yatırım aracı her zaman kazandırmaz; önemli olan, uzun vadede sürdürülebilir ve dengeli bir strateji oluşturmaktır.  
+Akıllı bir yatırımcı; bilgi, sabır ve disiplinle hareket eder.  
+RAG tabanlı chatbot’un amacı da yatırımcıya bilgi sağlayarak bu süreci kolaylaştırmaktır.
