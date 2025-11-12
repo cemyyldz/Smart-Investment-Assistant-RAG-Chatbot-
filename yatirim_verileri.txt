@@ -124,8 +124,109 @@ Kripto paralar, portföyde risk-getiri dengesini artırabilir ama aşırı ağı
 
 ---
 
+=== FINANS NEDIR ===
+Finans, para, yatırım ve varlık yönetimiyle ilgilenen bir bilim dalıdır. 
+Bireylerin, şirketlerin ve devletlerin kaynaklarını nasıl yöneteceğini inceler. 
+Finans üç ana alt dala ayrılır:
+1. Kişisel finans: Bireylerin gelir, gider, tasarruf ve yatırım planlamasını kapsar.
+2. Kurumsal finans: Şirketlerin sermaye yapısı, yatırım kararları ve finansman kaynaklarıyla ilgilenir.
+3. Kamu finansı: Devletin gelirleri (vergi, harç vb.) ve harcamaları arasındaki dengeyi yönetir.
+Finansın temel amacı, kaynakları en verimli şekilde kullanarak maksimum getiri ve minimum risk elde etmektir.
+
+---
+
+=== YATIRIM NEDIR ===
+Yatırım, gelecekte kazanç elde etmek amacıyla mevcut kaynakların (para, zaman, emek) değerlendirilmesidir.
+Yani bugünkü birikimlerin, ileride daha fazla değer yaratması hedeflenir.
+Yatırımlar ikiye ayrılır:
+- Finansal yatırım: Hisse senedi, tahvil, altın, döviz, fon, kripto gibi araçlara yapılan yatırımlardır.
+- Reel yatırım: Gayrimenkul, fabrika, makine, tarım veya girişim yatırımları gibi fiziksel varlıklara yapılan yatırımlardır.
+Yatırımın başarısı; risk, getiri, vade ve likidite dengesine bağlıdır.
+
+---
+
+=== RISK VE GETIRI ILISKISI ===
+Risk ve getiri, yatırımın en temel iki kavramıdır.
+Genellikle yüksek risk = yüksek getiri, düşük risk = düşük getiri prensibi geçerlidir.
+Yatırımcılar kendi risk toleransına göre uygun araçları seçmelidir:
+- Düşük risk: Tahvil, mevduat, yatırım fonu
+- Orta risk: Altın, döviz, karma fonlar
+- Yüksek risk: Hisse senedi, kripto, türev ürünler
+Amaç, risk-getiri dengesini kişisel hedeflere göre optimize etmektir.
+
+---
+
+=== MEVDUAT YATIRIMI ===
+Vadeli mevduat, belirli bir süre için bankaya yatırılan paraya faiz kazandıran bir yatırım türüdür.
+Risk düşüktür çünkü ana para genellikle garantilidir.
+Faiz oranları merkez bankası kararlarına ve piyasa koşullarına göre değişir.
+Kısa vadeli ve düşük riskli yatırım arayanlar için uygundur.
+
+---
+
+=== EMEKLILIK YATIRIMLARI (BES) ===
+Bireysel Emeklilik Sistemi (BES), uzun vadeli tasarrufu teşvik eden bir yatırım modelidir.
+Katılımcı her ay düzenli birikim yapar ve devlet katkısından (%30 oranında) yararlanır.
+Fonlar profesyonel yöneticiler tarafından yönetilir ve katılımcı istediği zaman fon dağılımını değiştirebilir.
+BES, uzun vadede emeklilik döneminde ek gelir sağlar.
+
+---
+
+=== GAYRIMENKUL YATIRIMI ===
+Gayrimenkul (ev, arsa, ofis vb.) yatırımı, reel bir yatırım türüdür.
+Değer artışı ve kira geliri sağlar.
+Ancak likiditesi düşüktür, yani nakde çevrilmesi zaman alabilir.
+Gayrimenkul, uzun vadeli ve istikrarlı getiri isteyen yatırımcılar için uygundur.
+
+---
+
+=== FAIZ NEDIR ===
+Faiz, borç verilen paranın belirli bir süre sonunda getirisidir.
+Bankalar mevduat sahiplerine faiz öder, kredi alanlardan faiz alır.
+Faiz oranları ekonomideki para arzı, enflasyon ve merkez bankası kararlarından etkilenir.
+
+---
+
+=== ENFLASYON NEDIR ===
+Enflasyon, mal ve hizmetlerin genel fiyat düzeyindeki sürekli artıştır.
+Yüksek enflasyon, paranın alım gücünü düşürür.
+Bu nedenle yatırımcılar, enflasyona karşı koruma sağlayan araçlara (örneğin altın veya döviz) yönelir.
+
+---
+
+=== LIKIDITE NEDIR ===
+Likidite, bir varlığın nakde dönüşme hızını ifade eder.
+Örneğin nakit en likit varlıktır; gayrimenkul ise daha az likittir.
+Likidite, yatırımcının acil nakit ihtiyaçlarını karşılayabilmesi açısından önemlidir.
+
+---
+
+=== DENGELI PORTFOY OLUSTURMA ===
+Yatırımcılar için ideal portföy, risk seviyesine ve hedefe göre değişir:
+- Düşük riskli portföy: %60 tahvil + %30 mevduat + %10 altın
+- Orta riskli portföy: %40 hisse + %30 tahvil + %20 altın + %10 döviz
+- Yüksek riskli portföy: %60 hisse + %20 kripto + %20 altın
+Portföy yılda en az bir kez yeniden dengelenmelidir.
+
+---
+
+=== EKONOMIK GOSTERGELER ===
+GDP (GSYH): Bir ülkenin belirli dönemde ürettiği mal ve hizmetlerin toplam değeridir. Ekonomik büyümenin temel göstergesidir.
+Cari Açık: Bir ülkenin dış ticaret dengesi negatifse cari açık oluşur. İthalat ihracattan fazlaysa, ülke cari açık verir. Cari açık, döviz kurları ve yatırımcı güvenini etkiler.
+
+---
+
+=== FINANSAL OKURYAZARLIK ===
+Finansal okuryazarlık, bireylerin para yönetimi, tasarruf, yatırım ve borçlanma konularında doğru karar verebilme becerisidir.
+Finansal bilgi düzeyi yüksek olan bireyler, riskleri daha iyi değerlendirir ve sürdürülebilir finansal planlama yapabilir.
+
+---
+
+
+
 SONUÇ:
 Yatırım yaparken temel prensip “getiri hedefi ile risk toleransı arasında denge kurmak” olmalıdır.  
 Hiçbir yatırım aracı her zaman kazandırmaz; önemli olan, uzun vadede sürdürülebilir ve dengeli bir strateji oluşturmaktır.  
 Akıllı bir yatırımcı; bilgi, sabır ve disiplinle hareket eder.  
 RAG tabanlı chatbot’un amacı da yatırımcıya bilgi sağlayarak bu süreci kolaylaştırmaktır.
+
