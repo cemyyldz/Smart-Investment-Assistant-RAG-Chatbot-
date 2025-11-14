@@ -24,8 +24,6 @@ def setup_rag_pipeline():
     
     EMBEDDING_MODEL_NAME = "text-embedding-004"
     
-
-    st.info("Veri setinden RAG hafızası (Vektör Veritabanı) oluşturuluyor... Lütfen bekleyin.")
     
     try:
 
@@ -51,8 +49,7 @@ def setup_rag_pipeline():
             embedding=embedding_model, 
     
         )
-        
-        st.success(f"Vektör Veritabanı başarıyla hafızaya yüklendi ({len(texts)} parça).")
+       
         
     except FileNotFoundError:
         st.error("HATA: 'yatirim_verileri.txt' dosyası bulunamadı. Lütfen GitHub deponuza eklediğinizden emin olun.")
@@ -127,3 +124,4 @@ if prompt := st.chat_input("Yatırım veya finans ile ilgili bir soru sorunuz...
             st.markdown(response)
 
     st.session_state.messages.append({"role": "assistant", "content": response})
+
