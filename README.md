@@ -37,7 +37,7 @@ Proje başarılı bir şekilde RAG mimarisini uygulayarak, yatırım veri setine
 
 ---
 
-### Proje Dosyaları
+## Proje Dosyaları
 
 * **`yatirim_asistani.ipynb`**: RAG hattının kurulumu, testi ve adım adım teknik anlatımın yer aldığı geliştirme notebook'udur.
 * **`chatbot_app.py`**: Streamlit tabanlı web arayüzü uygulamasını içeren ana Python dosyasıdır.
