@@ -34,6 +34,8 @@ Proje başarılı bir şekilde RAG mimarisini uygulayarak, yatırım veri setine
 ## 🔗 Uygulama Web Linki
 
 **Canlı Uygulama Linki:** [Akıllı Yatırım Asistanı](https://wfrqjrd6h7dvwtognc5sbt.streamlit.app/)
+<img width="1007" height="881" alt="image" src="https://github.com/user-attachments/assets/af5d6d81-e0be-42be-83b4-9b4fb9aea334" />
+
 
 ---
 
