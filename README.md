@@ -4,7 +4,7 @@
 Akıllı Yatırım Asistanı görevi görecek, RAG (Retrieval Augmented Generation) temelli bir Chatbot geliştirmektir. Bu asistan, kullanıcıların yatırım ve finansal konular hakkındaki sorularını, belirlenen veri seti üzerinden doğru ve dengeli bilgilerle yanıtlayarak uzun vadede sürdürülebilir bir strateji oluşturmalarına yardımcı olmayı hedeflemektedir.
 
 ## Veri Seti Hakkında Bilgi 
-Bu projede kullanılan veri seti, yatırım ve finans alanlarına yönelik olarak tarafımdan oluşturulmuş, çeşitli yatırım araçları hakkında bilgiler içeren tek bir metin dosyasıdır (yatirim_verileri.txt).
+Bu projede kullanılan veri seti, yatırım ve finans alanlarına yönelik olarak tarafımdan oluşturulmuş, çeşitli yatırım araçları hakkında bilgiler içeren tek bir metin dosyasıdır.
 
 Veri seti, RAG Chatbot'un bilgi tabanını oluşturmaktadır ve aşağıdaki temel yatırım araçlarını ve kavramlarını kapsamaktadır:
 
